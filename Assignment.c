@@ -1,9 +1,5 @@
-/*Nhom 3:
-  Tran Quoc Tuan-HE163901
-  Nguyen Thanh Tung-HE161278
-  Vu Duc Manh-HE163272
-  Pham Quang Huy-HE161937 
-  Nguyen Van Quyen-HE161892
+/*
+ Tính Thuế thu nhập
 */
 #include<stdio.h>
 #include<string.h>
